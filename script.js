@@ -99,7 +99,7 @@ document.querySelector('#text1').addEventListener('mouseenter', () => {
         width: 'auto',
         backgroundColor: 'white',
         borderRadius: '12px',
-        backgroundImage: 'url("../media/1.png")',
+        backgroundImage: 'url("../media/1.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center'
     });
